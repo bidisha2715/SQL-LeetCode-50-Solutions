@@ -1,15 +1,17 @@
-# SQL-LeetCode-50-Solutions
 # SQL LeetCode 50 Solutions
 
 This repository contains my solutions to the LeetCode SQL 50 Study Plan.
 
 ## Progress
-0/50 Completed
+- Completed: 0/50
 
 ## Topics Covered
 - SELECT
-- Joins
-- Aggregate Functions
+- JOINS
+- AGGREGATIONS
 - GROUP BY & HAVING
-- Subqueries
-- Window Functions
+- SUBQUERIES
+- WINDOW FUNCTIONS
+
+## Goal
+To strengthen SQL skills for coding interviews and placement preparation.
